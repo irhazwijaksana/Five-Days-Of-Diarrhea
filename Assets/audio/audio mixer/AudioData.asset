@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e3ce83a8ef264644ac1a38f50f82ffe, type: 3}
+  m_Name: AudioData
+  m_EditorClassIdentifier: 
+  BgmList:
+  - BgmName: ambience1
+    Clip: {fileID: 8300000, guid: 98bc9d0f02fd3fa4387ff62bde7c5642, type: 3}
+  - BgmName: piano
+    Clip: {fileID: 8300000, guid: 6fae2eaac3f05184e8dbee20b1a3f115, type: 3}
+  SoundList:
+  - SoundName: button1
+    Clip: {fileID: 8300000, guid: 7ff5dd6af20b92747b33ad4d71805d21, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: button3
+    Clip: {fileID: 8300000, guid: 7ff5dd6af20b92747b33ad4d71805d21, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: knocking
+    Clip: {fileID: 8300000, guid: 15af51ab92c79de419c31d4de370fac0, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: breath
+    Clip: {fileID: 8300000, guid: 0e2d970a990d8444899dccb98088aa97, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: breath2
+    Clip: {fileID: 8300000, guid: 0e2d970a990d8444899dccb98088aa97, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: laugh
+    Clip: {fileID: 8300000, guid: e7a3a6f85a81aea4e94bd6f8ec14e95e, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: jumpscare
+    Clip: {fileID: 8300000, guid: 8e20c5e85aeb7b34ea471e4287402d5b, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: footstep
+    Clip: {fileID: 8300000, guid: 775eb9b3ad8e5f84483ca402d38b775f, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: poopsound
+    Clip: {fileID: 8300000, guid: 98bc9d0f02fd3fa4387ff62bde7c5642, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: button2
+    Clip: {fileID: 8300000, guid: d29ec3accdc9f774c96ede5d7c8d32dd, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: kunci
+    Clip: {fileID: 8300000, guid: b4fcda7d10ecc5d4eb2d4145b39fdd6f, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: hover
+    Clip: {fileID: 8300000, guid: b373ddf3fefd2ed449400110e7c98823, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: hover2
+    Clip: {fileID: 8300000, guid: a12a11a5e4af5aa47b585e9a861c1a9d, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: waterjet
+    Clip: {fileID: 8300000, guid: 576a9e97a6eb4cb43947577c5d36405c, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: tissue
+    Clip: {fileID: 8300000, guid: a8cd190d879ffc440b3d7bd91f768288, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: hpdrop
+    Clip: {fileID: 8300000, guid: 413b456ea673f8f49b3b70b73c39e9f2, type: 3}
+    Volume: 1
+    isLoop: 0
